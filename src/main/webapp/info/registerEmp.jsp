@@ -9,7 +9,7 @@
 <body>
 	<!-- info/registerEmp.jsp -->
 	<h3>사원등록화면...</h3>
-	<form action="../addEmp.do" method="post">
+	<form action="addEmp.do" method="post">
 		<table border="1">
 			<tr>
 				<th>사원번호</th>
